@@ -1,0 +1,4 @@
+Synthetic fixture
+branch=exp/telemetry/null-a-03
+fragment=1
+nonce=e80bf158f22e
