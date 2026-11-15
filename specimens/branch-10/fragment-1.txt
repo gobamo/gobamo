@@ -1,0 +1,4 @@
+Synthetic fixture
+branch=exp/compiler/phase-inversion-10
+fragment=1
+nonce=232f406c1446
