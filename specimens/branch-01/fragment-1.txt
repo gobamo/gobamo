@@ -1,0 +1,4 @@
+Synthetic fixture
+branch=exp/quantum/cache-reconciliation-01
+fragment=1
+nonce=8b34142d3c1c
