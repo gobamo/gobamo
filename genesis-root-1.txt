@@ -1,0 +1,2 @@
+Genesis root root/alpha fragment 0
+nonce=067ce044
