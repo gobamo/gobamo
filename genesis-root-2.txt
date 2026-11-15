@@ -1,2 +1,2 @@
-Genesis root root/beta fragment 0
-nonce=b28a7d4d
+Genesis root root/beta fragment 1
+nonce=a0f7f64b
