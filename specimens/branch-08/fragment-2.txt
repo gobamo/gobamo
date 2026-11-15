@@ -1,0 +1,4 @@
+Synthetic fixture
+branch=exp/runtime/ghost-state-08
+fragment=2
+nonce=36a5257a77db
