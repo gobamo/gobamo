@@ -1,0 +1,4 @@
+Synthetic fixture
+branch=exp/ast/shadow-index-02
+fragment=1
+nonce=8b34142d3c1c
