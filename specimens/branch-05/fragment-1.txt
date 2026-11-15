@@ -1,0 +1,4 @@
+Synthetic fixture
+branch=exp/infra/a-workers-05
+fragment=1
+nonce=e2023c402b02
