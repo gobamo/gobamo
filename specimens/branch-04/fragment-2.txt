@@ -1,0 +1,4 @@
+Synthetic fixture
+branch=exp/refactor/recursive-registry-04
+fragment=2
+nonce=c4f8d12abb29
