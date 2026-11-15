@@ -1,0 +1,4 @@
+Synthetic fixture
+branch=exp/parser/entropy-layer-06
+fragment=3
+nonce=4a92d8132676
