@@ -1,0 +1,4 @@
+Synthetic fixture
+branch=exp/scheduler/deferred-a-09
+fragment=2
+nonce=ec236fd94303
