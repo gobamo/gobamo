@@ -1,0 +1,4 @@
+Synthetic fixture
+branch=exp/storage/merkle-a-07
+fragment=3
+nonce=4a92d8132676
